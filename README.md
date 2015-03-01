@@ -2,7 +2,6 @@
 
 This is my first Ruby App
 
-[*Please check my site*](http://jamesleone.me)
-
+[*To view this example click here*](https://mypintrestapp.herokuapp.com)
 
 by [James Leone](http://jamesleone.me)
